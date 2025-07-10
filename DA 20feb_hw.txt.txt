@@ -50,6 +50,17 @@ They can store the multiple values
  Dicitionary(dict)
  String(str)
 
+1.Non-primitive datatypes
+They can store the multiple values
+ List(list)
+ Tuple(tuple)
+ Dicitionary(dict)
+ String(str)
+
+
+
+
+
 
 
 
