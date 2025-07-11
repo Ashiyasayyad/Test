@@ -1,0 +1,68 @@
+1)History of Python & its feature?
+python is a high level interpreted programming language developed by Guido van Rossum in 1980
+It is one of the most popular and widely used programming language.
+Features:
+1)Easy to Learn and use
+2)High-Level Language
+3)It is open source and free
+4)Extensive Libraries
+5)support multiple programming languages
+6)platform-independent
+
+2)where we use python
+python is versatile programming language used in various domains including:
+1)web development
+2)Data science and Machine Learning
+3)Game development
+4)cybersecurity
+5)cloud computting and DevOps
+
+3)Why we used python?
+1)It is easy to learn-it is simple and easy syntax 
+2)Extensive Libraries-Libraries like numpy pandas 
+3)cross platform: works on windows and macos
+4)It is also used in multiple application
+4)High demanded in industries- used in top company like Google,Netflix.
+
+4)Premitives datatypes in python?
+There are two types 
+1)Premitives datatypes
+2)non-primitive
+
+1)primitive:
+integer(int)
+(10, -4)
+
+floating Point(float)
+(10.3,  3.14)
+
+Boolean(bool)
+represent True or False values.
+
+string(str)
+sequence of character
+("hello",'Python')
+
+Non-primitive datatypes
+They can store the multiple values
+ List(list)
+ Tuple(tuple)
+ Dicitionary(dict)
+ String(str)
+
+1.Non-primitive datatypes
+They can store the multiple values
+ List(list)
+ Tuple(tuple)
+ Dicitionary(dict)
+ String(str)
+
+
+
+
+
+
+
+
+
+
